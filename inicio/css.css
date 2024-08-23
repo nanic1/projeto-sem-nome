@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+li {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 30px;
+    box-shadow: 3px 3px 7px white;
+}
